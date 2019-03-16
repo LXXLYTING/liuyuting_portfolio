@@ -105,7 +105,7 @@
 		});
 
 		$('.portfolios-wrapper').lightGallery({
-			selector: '.portfolio-item .portfolio-zoom-button'
+			selector: '.portfolio-item .portfolio-zoom-button1'
 		});
 	}
 	portfolioFilterLightgallery();
