@@ -96,7 +96,7 @@
 			});
 			$gallery.data('lightGallery').destroy(true);
 			$('.portfolios-wrapper').lightGallery({
-				selector: filterValue.replace('*', '') + ' .portfolio-zoom-button',
+				selector: filterValue.replace('*', '') + ' .portfolio-zoom-button1',
 			});
 
 			$('.portfolio-filters button').removeClass('is-checked');
